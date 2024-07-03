@@ -9,14 +9,12 @@ ___
 ](https://github.com/manojnath124)
 ___
 
-
 ##  ℹ️```Bot Intro```ℹ️
->[MANOJ-XD-BOT](https://github.com/manojnath124/manoj-xd) is based on :
->- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
->
+[![ROMEK-XD-BOT](https://telegra.ph/file/382a66e633056c8290716.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+</p>
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-[![MANOJ-XD-BOT](https://i.imgur.com/2gd0YRc.jpeg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+[![MANOJ-XD-BOT](https://i.imgur.com/2gd0YRc.jpeg)]()
 </p>
 
    
