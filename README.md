@@ -24,7 +24,7 @@ ___
 </p>
   
 ##
-MANOJ-XD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
+MANOJ-XD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [ROMEK-XD](https://github.com/Romeofaiz) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
 ---------
 
@@ -239,4 +239,6 @@ This is the section that provides help.
 
 
 ## `💀DEVELOPER💀` 
-<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
+
+
+<a href="https://github.com/Romeofaiz"><img src="https://github.com/Romeofaiz.png" width="250" height="250" alt="Xcelsama"/></a>
