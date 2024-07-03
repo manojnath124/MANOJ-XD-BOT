@@ -14,8 +14,6 @@ ___
 </p>
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-[![MANOJ-XD-BOT](https://i.imgur.com/2gd0YRc.jpeg)]()
-</p>
 
    
  
