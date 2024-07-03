@@ -227,9 +227,11 @@ This is the section that provides help.
 
 
 
+## `OWNER OF THE BOT`
 
 
 
+<a href="https://github.com/manojnath124"><img src="https://github.com/Romeofaiz.png" width="250" height="250" alt="Xcelsama"/></a>
 
 
 
